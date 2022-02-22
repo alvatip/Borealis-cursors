@@ -57,8 +57,8 @@ If you have any issues, report them [here](https://github.com/alvatip/Borealis-c
 
 ##  How can I help ?
 
-* By giving a **star** or **follow** on GitHub.
-* By **rating** it on Pling
+* By giving a **star** or **follow** on [GitHub](https://github.com/alvatip/Borealis-cursors).
+* By **rating** it on [Pling](https://www.pling.com/p/1717914/)
 
 ## Licence
 
