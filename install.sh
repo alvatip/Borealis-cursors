@@ -15,13 +15,7 @@ fi
 if [ -d "$DEST_DIR/Borealis-cursors" ]; then
   rm -rf "$DEST_DIR/Borealis-cursors"
 fi
-: '
-if [ -d "$DEST_DIR/Sunity-cursors-white" ]; then
-  rm -rf "$DEST_DIR/Sunity-cursors-white"
-fi
-'
 cp -r Borealis-cursors/ $DEST_DIR/Borealis-cursors
-#cp -r Sunity-cursors-white/ $DEST_DIR/Sunity-cursors-white
 
 echo "Finished..."
 

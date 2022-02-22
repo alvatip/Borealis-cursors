@@ -5,7 +5,7 @@
    version="1.1"
    viewBox="0 0 13.539199 13.585633"
    id="svg914"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    sodipodi:docname="logo.svg"
    inkscape:export-filename="/home/alexandre/github/Sunity-cursor/art/logo.png"
    inkscape:export-xdpi="375"
@@ -23,9 +23,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      showgrid="false"
-     inkscape:zoom="1.2978976"
-     inkscape:cx="111.3339"
-     inkscape:cy="-70.11339"
+     inkscape:zoom="14.684035"
+     inkscape:cx="25.571991"
+     inkscape:cy="25.674143"
      inkscape:window-width="1920"
      inkscape:window-height="1018"
      inkscape:window-x="0"
@@ -53,22 +53,22 @@
     </filter>
     <linearGradient
        id="linearGradient1340"
-       x1="8.5010996"
-       x2="8.4890003"
-       y1="16.007"
-       y2="0.79374999"
+       x1="-7.9848289"
+       x2="15.256755"
+       y1="21.812365"
+       y2="2.055608"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.8,0,0,0.8,-0.00972,-0.00481392)">
       <stop
          stop-color="#2e3440"
          offset="0"
          id="stop899"
-         style="stop-color:#353e69;stop-opacity:1" />
+         style="stop-color:#0b242e;stop-opacity:1" />
       <stop
          stop-color="#4c566a"
          offset="1"
          id="stop901"
-         style="stop-color:#8e96c2;stop-opacity:1" />
+         style="stop-color:#3d7b7f;stop-opacity:1" />
     </linearGradient>
   </defs>
   <rect
